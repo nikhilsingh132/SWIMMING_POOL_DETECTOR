@@ -1,4 +1,4 @@
-# swimming-pool-detector
+# SWIMMING POOL DETECTOR
 
 
-you will have to run the notebook and then download the weights from drive and then put all that stuff in the same folder
+You will have to run the notebook and then download the weights from drive and then put all that stuff in the same folder
